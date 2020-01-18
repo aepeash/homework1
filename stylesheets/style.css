@@ -1,0 +1,12 @@
+img{
+    height: 150px;
+}
+ol {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin: 0px;
+}
+
